@@ -1,0 +1,32 @@
+#!/bin/bash
+# usage: gcop git_url project_name
+
+# parse params
+repoUrl=$1
+
+# help output
+if [ "$1" = "-h" ]; then
+  printf "git clone and open project in PyCharm Professional\n"
+  echo "usage: gcop git_url [project_name]"
+  exit 1
+fi
+
+# parse project name
+if [ -z "$2" ]; then
+  printf "No project name specified\n"
+  repoName="${repoUrl##*/}"
+  repoName="${repoName/.git/}"
+else
+  printf "Project name is %s\n" "$2"
+fi
+
+# git clone project
+git clone "$repoUrl" "$repoName"
+
+# cd to project
+cd "$repoName" || exit 0
+
+# open in webstorm
+pycharm-professional ./
+
+exit 1
