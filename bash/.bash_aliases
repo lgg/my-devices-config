@@ -1,3 +1,5 @@
 alias sop='sudo netstat -lntup'
 alias t='tail -f'
 alias of='nautilus ./'
+alias gcow='gco -w'
+alias gcop='gco -p'
