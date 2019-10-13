@@ -18,7 +18,3 @@
 ## License
 
 * MIT, [lgg](https://github.com/lgg)
-    
-#### Projects usage
-
-* [bash-arg-parse](https://github.com/mattbryson/bash-arg-parse)
