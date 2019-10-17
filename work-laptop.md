@@ -27,5 +27,8 @@
 * Install Postman
 * Install Nutty
 * Install nmap
-
+* Install Flameshot
+    * [https://github.com/lupoDharkael/flameshot](https://github.com/lupoDharkael/flameshot)
+    * add shortcut for F2
+* Install Pinta `apt install pinta`
 
