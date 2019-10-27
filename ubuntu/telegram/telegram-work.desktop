@@ -1,0 +1,14 @@
+[Desktop Entry]
+Version=1.0
+Name=Telegram Work
+Comment=Official desktop application for the Telegram messaging service
+Exec=/home/user/apps/Telegram/Telegram -many -workdir "/home/user/.local/share/telegram/work"
+Icon=/home/user/.local/share/icons/telegram-black.png
+Terminal=false
+StartupWMClass=TelegramDesktopWork
+Type=Application
+Categories=Network;InstantMessaging;Qt;
+MimeType=x-scheme-handler/tg;
+Keywords=tg;chat;im;messaging;messenger;sms;tdesktop;
+X-GNOME-UsesNotifications=true
+X-Desktop-File-Install-Version=0.23

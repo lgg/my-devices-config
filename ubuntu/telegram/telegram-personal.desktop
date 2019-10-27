@@ -1,0 +1,15 @@
+[Desktop Entry]
+Version=1.0
+Name=Telegram Personal
+Comment=Official desktop application for the Telegram messaging service
+Exec=/home/user/apps/Telegram/Telegramp -many -workdir "/home/user/.local/share/telegram/personal %u"
+Icon=/home/user/.local/share/icons/telegram-blue.png
+Terminal=false
+StartupWMClass=TelegramDesktopPersonal
+Type=Application
+Categories=Network;InstantMessaging;Qt;
+MimeType=x-scheme-handler/tgp;
+Keywords=tg;chat;im;messaging;messenger;sms;tdesktop;
+X-GNOME-UsesNotifications=true
+X-Desktop-File-Install-Version=0.23
+
