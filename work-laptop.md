@@ -32,3 +32,29 @@
     * add shortcut for F2
 * Install Pinta `apt install pinta`
 
+### Apps
+
+* Chrome
+* Outline
+* Owncloud
+* KeeWeb
+* Thunderbird
+* Slack
+* WebStorm
+* PyCharm
+* Zoom
+* Telegram
+* VLC
+* Nutty
+* htop
+* vim
+* git
+* ssfs (или как там для копирования файлов через ssh)
+* Transmission
+* Postman
+* node/npm
+* Wireshark
+* netstat
+* python
+* php
+
