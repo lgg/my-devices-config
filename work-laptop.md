@@ -3,6 +3,7 @@
 ## Ubuntu Installation
 
 * Install Chrome
+* Install gnome-tweak-tool
 * set up vim with arrows and 4 spaces for tab
 * `sudo apt update && sudo apt install sshfs python3 python3-pip git vim net-tools htop`
 * install nvm (node version manager)
@@ -58,3 +59,14 @@
 * python
 * php
 
+## Change Super show activities to ALT
+
+* change show activities to `RIGHT SUPER` 
+    * gnome-tweak-tool > Keyboard and mouse > Switch between overview and desktop offers only 2 options:
+        * Left super, Default
+        * Right super
+        * [original SO answer](https://askubuntu.com/questions/93746/how-can-i-disable-the-windows-key-from-opening-the-activities-overview)
+* set show activities to `ALT`
+    * `gsettings set org.gnome.mutter overlay-key 'Alt_L'`
+    * [original SO answer 1](https://askubuntu.com/questions/1037673/how-to-disable-the-super-key-18-04)
+    * [original SO answer 2](https://unix.stackexchange.com/questions/388238/how-to-set-super-windows-key-to-show-all-applications-menu-in-gnome-de)
