@@ -70,3 +70,10 @@
     * `gsettings set org.gnome.mutter overlay-key 'Alt_L'`
     * [original SO answer 1](https://askubuntu.com/questions/1037673/how-to-disable-the-super-key-18-04)
     * [original SO answer 2](https://unix.stackexchange.com/questions/388238/how-to-set-super-windows-key-to-show-all-applications-menu-in-gnome-de)
+
+## Change login screen background
+
+ubuntu change login screen background:
+
+* `cd /usr/share/backgrounds`
+* replace file `warty-final-ubuntu.png` with your image
