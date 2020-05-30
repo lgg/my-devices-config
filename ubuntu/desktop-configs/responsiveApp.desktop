@@ -1,0 +1,19 @@
+[Desktop Entry]
+Name=ResponsivelyApp
+Comment=Easy adaptive webDev browser
+GenericName=ResponsivelyApp
+# ln -sT ./ResponsivelyApp-0.1.5.AppImage ResponsivelyApp.AppImage
+# make sure to change the below path to the path in your system
+Exec=/home/user/apps/ResponsiveDev/ResponsivelyApp.AppImage
+# or path to Icon
+Icon=ResponsivelyApp
+Type=Application
+StartupNotify=true
+Categories=Development;X-WebDev;
+MimeType=application/x-ResponsivelyApp;
+# run `desktop-file-validate responsiveApp.desktop` to validate
+
+### install steps
+# desktop-file-validate responsiveApp.desktop
+# desktop-file-install --dir=$HOME/.local/share/applications responsiveApp.desktop
+# cp responsiveApp.desktop ~/.local/share/applications/
