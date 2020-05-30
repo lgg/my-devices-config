@@ -77,3 +77,7 @@ ubuntu change login screen background:
 
 * `cd /usr/share/backgrounds`
 * replace file `warty-final-ubuntu.png` with your image
+
+## ShortCuts
+
+* suspend: `Super+Z`: `systemctl suspend`
