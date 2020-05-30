@@ -2,18 +2,27 @@
 
 ## Work devices
 
-* [Work laptop](./work-laptop.md)
-* [Work Iphone](./work-iphone.md)
+* [Work laptop](./ubuntu/work-laptop.md)
+* [Work Iphone](./phones/work-iphone.md)
 
 ## Personal devices
 
-* [Personal laptop](./personal-laptop.md)
-* [Personal Iphone](./personal-iphone.md)
+* [Personal laptop](./windows/personal-laptop.md)
+* [Personal Iphone](./phones/personal-iphone.md)
+
+## Tools
+
+* [scripts](./scripts)
+* [bash](./bash)
+* [Web Development](./web-dev.md)
 
 ## Other
 
-* [Gaming PC](./gaming-pc.md)
-* [Android phone](./android-phone.md)
+* [Ubuntu](./ubuntu)
+* [MacOS](./macos)
+* [Windows](./windows)
+* [Gaming PC](./windows/gaming-pc.md)
+* [Android phone](./phones/android-phone.md)
 
 ## License
 
