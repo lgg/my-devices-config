@@ -6,6 +6,7 @@
     * personal: `mkdir ~/.local/share/telegram/personal` 
 * cd to current directory
 * edit path to files if needed
+* run `desktop-file-validate telegram-work.desktop` to validate
 * `desktop-file-install --dir=$HOME/.local/share/applications telegram-work.desktop`
 * `desktop-file-install --dir=$HOME/.local/share/applications telegram-personal.desktop`
     * `cp telegram-* ~/.local/share/applications/`
