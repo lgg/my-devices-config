@@ -81,3 +81,8 @@ ubuntu change login screen background:
 ## ShortCuts
 
 * suspend: `Super+Z`: `systemctl suspend`
+
+## magic keyboard drivers
+
+Allows to swap the Fn key and left Control key and other tweaks on Macbook Pro and Apple keyboards in GNU/Linux
+* [hid-apple-patched](https://github.com/free5lot/hid-apple-patched)
