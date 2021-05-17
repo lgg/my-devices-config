@@ -1,0 +1,14 @@
+[Desktop Entry]
+Version=1.0
+Name=Postman
+Comment=API tool
+Exec=/home/user/apps/Postman/app/Postman
+Icon=/home/user/.local/share/icons/postman.png
+Terminal=false
+StartupWMClass=Postman
+Type=Application
+Categories=Network;X-API;X-Develop;
+MimeType=x-scheme-handler/postman;
+Keywords=api;dev;develop;test;postman;
+X-GNOME-UsesNotifications=true
+X-Desktop-File-Install-Version=0.23
