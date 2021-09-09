@@ -1,0 +1,14 @@
+[Desktop Entry]
+Version=1.0
+Name=DrawIO
+Comment=Official draw.io desktop app
+Exec=/home/user/apps/DrawIo/drawio-x86_64-15.1.3.AppImage
+Icon=/home/user/.local/share/icons/drawio.png
+Terminal=false
+StartupWMClass=DrawIO
+Type=Application
+Categories=Network;X-Business;X-Graphic;
+MimeType=x-scheme-handler/tgp;
+Keywords=draw;drawio;graphic;graph;block;algo;
+X-GNOME-UsesNotifications=true
+X-Desktop-File-Install-Version=0.23
