@@ -1,0 +1,14 @@
+[Desktop Entry]
+Version=1.0
+Name=balenaEtcher USB SD Cards Flasher
+Comment=USB flash tool
+Exec=/home/user/apps/usb-flashes/balenaEtcher/balenaEtcher
+Icon=/home/user/.local/share/icons/balenaEtcher.png
+Terminal=false
+StartupWMClass=balenaEtcher
+Type=Application
+Categories=Utility;X-API;X-Develop;
+MimeType=x-scheme-handler/balenaEtcher;
+Keywords=usb;flash;sd;dev;develop;test;balenaEtcher;card;flasher;
+X-GNOME-UsesNotifications=true
+X-Desktop-File-Install-Version=0.23
