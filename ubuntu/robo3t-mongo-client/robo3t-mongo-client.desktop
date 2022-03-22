@@ -1,0 +1,14 @@
+[Desktop Entry]
+Version=1.0
+Name=Robo 3T Mongo Client
+Comment=DB tool
+Exec=/home/user/apps/MongoDB-client/robo3t/bin/robo3t
+Icon=/home/user/.local/share/icons/robo3t.png
+Terminal=false
+StartupWMClass=Robo3t
+Type=Application
+Categories=Network;X-API;X-Develop;
+MimeType=x-scheme-handler/postman;
+Keywords=api;dev;develop;test;mongo;db;mongodb;mongoose;robo;robot;robo3t;3t;
+X-GNOME-UsesNotifications=true
+X-Desktop-File-Install-Version=0.23
