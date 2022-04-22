@@ -81,6 +81,7 @@ ubuntu change login screen background:
 ## ShortCuts
 
 * suspend: `Super+Z`: `systemctl suspend`
+* [flameshot](https://github.com/flameshot-org/flameshot) screenshot: `F2` : `flatpak run org.flameshot.Flameshot gui` or `flameshot gui`
 
 ## magic keyboard drivers
 
