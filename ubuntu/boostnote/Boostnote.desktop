@@ -1,0 +1,14 @@
+[Desktop Entry]
+Version=1.0
+Name=Boostnote
+Comment=Notes with markdown
+Exec=/home/user/apps/notes/Boostnote-linux-x64-boostnote-0.13.0/Boostnote
+Icon=/home/user/.local/share/icons/Boostnote.png
+Terminal=false
+StartupWMClass=Boostnote
+Type=Application
+Categories=Office;X-Notes;
+MimeType=x-scheme-handler/boostnote;
+Keywords=markdown;note;notes;boostnote;todo;
+X-GNOME-UsesNotifications=true
+X-Desktop-File-Install-Version=0.23
