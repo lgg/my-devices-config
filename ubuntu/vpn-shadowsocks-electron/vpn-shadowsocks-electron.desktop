@@ -1,0 +1,14 @@
+[Desktop Entry]
+Version=1.0
+Name=VPN ShadowSocks Electron
+Comment=VPN ShadowSocks Electron UI Agent
+Exec=/home/user/apps/VPN/Shadowsocks-Electron-1.2.3.AppImage
+Icon=/home/user/.local/share/icons/shadowsocks-electron.png
+Terminal=false
+StartupWMClass=VPNShadowSocksElectron
+Type=Application
+Categories=Network;X-VPN;X-ShadowSocks;
+MimeType=x-scheme-handler/ss;
+Keywords=ss;vpn;shadowsocks;shadowsocks-electron;
+X-GNOME-UsesNotifications=true
+X-Desktop-File-Install-Version=0.23

@@ -1,0 +1,1 @@
+Github: https://github.com/nojsja/shadowsocks-electron/
