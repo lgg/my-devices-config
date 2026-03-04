@@ -45,11 +45,15 @@
 * Flameshot Screenshots - https://flameshot.org/
 * Perplexity Comet Browser - https://www.perplexity.ai/comet
 * OpenAI Browser - (coming soon)
+* Flow Launcher - https://github.com/Flow-Launcher/Flow.Launcher
+  * perplexity search query
+  * chatgpt plugin
+  * `pm install Window Walker by taooceros`
 * Voice Input 
+  * **(best)** Handy - https://github.com/cjpais/Handy
   * Speech Pulse - https://speechpulse.com/
   * Buzz - https://github.com/chidiwilliams/buzz
   * Vibe - https://github.com/thewh1teagle/vibe
-  * Handy - https://github.com/cjpais/Handy
 * WebTorrent (for torrents)
 * KeePass for passwords
 * Microsoft Office (license - plati-market)
