@@ -21,6 +21,8 @@
 * Github CLI - https://cli.github.com/
 * Android Studio - https://developer.android.com/studio?hl=ru
 * VS Code - https://code.visualstudio.com/
+* https://github.com/mountain-loop/yaak
+* https://github.com/hoppscotch/hoppscotch
 
 ## AI coding tools
 
@@ -43,7 +45,11 @@
 * Flameshot Screenshots - https://flameshot.org/
 * Perplexity Comet Browser - https://www.perplexity.ai/comet
 * OpenAI Browser - (coming soon)
-* Voice Input Speech Pulse - https://speechpulse.com/
+* Voice Input 
+  * Speech Pulse - https://speechpulse.com/
+  * Buzz - https://github.com/chidiwilliams/buzz
+  * Vibe - https://github.com/thewh1teagle/vibe
+  * Handy - https://github.com/cjpais/Handy
 * WebTorrent (for torrents)
 * KeePass for passwords
 * Microsoft Office (license - plati-market)
@@ -52,6 +58,7 @@
 * Rainmeter (optional)
 * Rocket Dock (optional) (cracked)
 * Fences (cracked)
+* https://github.com/microsoft/PowerToys
 
 ## Drivers
 

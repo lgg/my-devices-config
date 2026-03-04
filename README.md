@@ -5,6 +5,7 @@
 ### AI tools
 
 * [AI Tools](./ai-tools.md)
+* [Obsidian Notes](./obsidian.md)
 
 ### Desktop / Laptops
 

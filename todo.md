@@ -1,3 +1,10 @@
-* [ ] add .dotfiles manager
-* [ ] add new bash_aliases from .bash_aliases on work_laptop
+https://github.com/immich-app/immich
 
+obsidian
+
+macos
+
+android
+- rooted
+- work
+- tablets
