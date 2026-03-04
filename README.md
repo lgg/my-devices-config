@@ -1,5 +1,20 @@
 # Configs and checklists for my devices
 
+## Active setup
+
+### Desktop / Laptops
+
+* [Windows](./windows/coding-user.md)
+* [MacOS]()
+* [Linux Server]()
+
+### Phones / Tablets
+* [iphone]
+* [rooted android]()
+* [Android]()
+
+---
+
 ## Work devices
 
 * [Work laptop](./ubuntu/work-laptop.md)
