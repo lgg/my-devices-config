@@ -2,6 +2,10 @@
 
 ## Active setup
 
+### AI tools
+
+* [AI Tools](./ai-tools.md)
+
 ### Desktop / Laptops
 
 * [Windows](./windows/coding-user.md)
@@ -9,6 +13,7 @@
 * [Linux Server]()
 
 ### Phones / Tablets
+
 * [iphone]
 * [rooted android]()
 * [Android]()
