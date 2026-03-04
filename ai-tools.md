@@ -20,6 +20,7 @@
 * whisper
 * speechpulse
 * https://github.com/Zackriya-Solutions/meetily
+* https://github.com/abus-aikorea/voice-pro
 
 ## Apps
 
