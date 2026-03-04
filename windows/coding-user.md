@@ -23,6 +23,7 @@
 * VS Code - https://code.visualstudio.com/
 * https://github.com/mountain-loop/yaak
 * https://github.com/hoppscotch/hoppscotch
+* Windows PowerToys - https://github.com/microsoft/PowerToys
 
 ## AI coding tools
 
@@ -49,6 +50,7 @@
   * perplexity search query
   * chatgpt plugin
   * `pm install Window Walker by taooceros`
+  * ``
 * Voice Input 
   * **(best)** Handy - https://github.com/cjpais/Handy
   * Speech Pulse - https://speechpulse.com/
@@ -62,7 +64,7 @@
 * Rainmeter (optional)
 * Rocket Dock (optional) (cracked)
 * Fences (cracked)
-* https://github.com/microsoft/PowerToys
+* YouTube Music Desktop - https://github.com/ytmdesktop/ytmdesktop
 
 ## Drivers
 
