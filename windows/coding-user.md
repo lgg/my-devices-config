@@ -62,6 +62,7 @@
 * Rocket Dock (optional) (cracked)
 * Fences (cracked)
 * YouTube Music Desktop - https://github.com/ytmdesktop/ytmdesktop
+* Cider 2 (License) - https://taproom.cider.sh/downloads
 
 ## Drivers
 
