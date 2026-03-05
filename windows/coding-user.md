@@ -30,7 +30,8 @@
 * Zed - https://zed.dev/
 * Google Antigravity - https://antigravity.google/
 * Cursor - https://cursor.com/
-* Codex App - soon
+* Codex App (Win Store only - US region for windows)
+* ChatGPT App (Win Store only - US region for windows)
 
 ## AI tools
 
@@ -63,6 +64,7 @@
 * Fences (cracked)
 * YouTube Music Desktop - https://github.com/ytmdesktop/ytmdesktop
 * Cider 2 (License) - https://taproom.cider.sh/downloads
+* Win10 Reordering Virtual Desktops - https://github.com/ViRb3/SylphyHornEx
 
 ## Drivers
 
